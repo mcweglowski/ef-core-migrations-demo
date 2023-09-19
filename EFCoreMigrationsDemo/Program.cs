@@ -17,4 +17,6 @@ var builder = new HostBuilder()
 
 var host = builder.Build();
 
+Console.WriteLine("Service started to work...");
+
 await host.RunAsync();
