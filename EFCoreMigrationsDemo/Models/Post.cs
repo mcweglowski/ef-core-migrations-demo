@@ -1,4 +1,4 @@
-namespace EFCoreMigrationsDemo.Model;
+namespace EFCoreMigrationsDemo.Models;
 
 public class Post
 {
